@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08.Text Processing/08.Text Processing.iml" filepath="$PROJECT_DIR$/08.Text Processing/08.Text Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.Basic Syntax, Conditional Statements and Loops/Lab/Lab.iml" filepath="$PROJECT_DIR$/01.Basic Syntax, Conditional Statements and Loops/Lab/Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Data Types and Variables/Lab/Lab2.iml" filepath="$PROJECT_DIR$/02.Data Types and Variables/Lab/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Methods/Lab/Lab3.iml" filepath="$PROJECT_DIR$/04.Methods/Lab/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Arrays/Lab/Lab4.iml" filepath="$PROJECT_DIR$/03.Arrays/Lab/Lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Lists/Lab/Lab5.iml" filepath="$PROJECT_DIR$/05.Lists/Lab/Lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.Objects and Classes/Lab/Lab6.iml" filepath="$PROJECT_DIR$/06.Objects and Classes/Lab/Lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Associative Arrays, Lambda and Stream API/Lab/Lab7.iml" filepath="$PROJECT_DIR$/07.Associative Arrays, Lambda and Stream API/Lab/Lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Arrays/More Exercise/More Exercise.iml" filepath="$PROJECT_DIR$/03.Arrays/More Exercise/More Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Data Types and Variables/More Exercises/More Exercises.iml" filepath="$PROJECT_DIR$/02.Data Types and Variables/More Exercises/More Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.Basic Syntax, Conditional Statements and Loops/More Exercises/More Exercises2.iml" filepath="$PROJECT_DIR$/01.Basic Syntax, Conditional Statements and Loops/More Exercises/More Exercises2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.Objects and Classes/More Exercises/More Exercises3.iml" filepath="$PROJECT_DIR$/06.Objects and Classes/More Exercises/More Exercises3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Associative Arrays, Lambda and Stream API/More Exercises/More Exercises4.iml" filepath="$PROJECT_DIR$/07.Associative Arrays, Lambda and Stream API/More Exercises/More Exercises4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Lists/More Exercises/More Exercises5.iml" filepath="$PROJECT_DIR$/05.Lists/More Exercises/More Exercises5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Methods/More Exercises/More Exercises6.iml" filepath="$PROJECT_DIR$/04.Methods/More Exercises/More Exercises6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming-Fundamentals-Java.iml" filepath="$PROJECT_DIR$/.idea/Programming-Fundamentals-Java.iml" />
+    </modules>
+  </component>
+</project>
